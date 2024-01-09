@@ -2,9 +2,9 @@ print('Welcome to Elite 101 Chatbot!')
 name = input('Please enter your name:')
 age = int(input(f'Nice to meet you {name}! How old are you? '))
 if age < 30:
-  print(f'Welcome {name}! Oh, to be {age} again! How can I help you today?') #Change thiis
+  print(f'Hello and welcome, {name}, your age is {age}, congrats! Anyways, How may I help you today?')
 elif age > 30:
-  print(f'Welcome {name}! {age} is such a wise age! How can I help you today?') #Change This
+  print(f'Hello and welcome, {name}, your age is {age}, congrats! Anyways, How may I help you today?') 
 
 x = True
 
