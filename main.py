@@ -1,4 +1,4 @@
-print('Welcome to Elite 101 Chatbot!')
+print('Welcome to Elite 101 Chatbot! Great to see you!')
 name = input('Please enter your name:')
 age = int(input(f'Nice to meet you {name}! How old are you? '))
 if age < 30:
